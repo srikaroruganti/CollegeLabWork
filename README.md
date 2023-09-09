@@ -1,2 +1,2 @@
-# CollegeLabWork
-This is a repository containing all the lab assignments done by me as part of my course work in the subject "Artificial Intelligence and Machine Learning" along with the datasets that were used during the assignments.
+# College AI and Machine Learning Lab Work Repository
+Welcome to my college AI and Machine Learning lab work repository! This collection houses a series of lab assignments and projects that I completed during my college studies, primarily focusing on artificial intelligence (AI) and machine learning (ML) using Python.
